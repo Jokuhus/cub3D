@@ -1,0 +1,17 @@
+NO ./img/path_to_the_north_texture.xpm
+SO ./img/wolf_yellow_stone.xpm
+WE ./img/wolf_stone.xpm
+EA ./img/path_to_the_east_texture.xpm
+DO ./img/wood_door.xpm
+M0 ./img/blue_snail_full.xpm
+M1 ./img/blue_snail_half.xpm
+
+F 63,51,41
+C 43,41,35
+
+11111111111
+10001111101
+10001MMM101
+11000M1M101
+1E001MMM101
+11111111111
